@@ -1,0 +1,68 @@
+---
+title: "LLM"
+---
+Different sources and papers related how can LLM's be helping monitoring. 
+
+
+[[Prompting]]
+
+
+Extended to [[VLm]]
+---
+1. Large Language Models for Time Series: A Survey
+https://arxiv.org/pdf/2402.01801
+
+![[/assets/wiki/Pasted image 20241108124026.png]]
+---
+2. IMU2CLIP: MULTIMODAL CONTRASTIVE LEARNING FOR IMU MOTION SENSORS FROM EGOCENTRIC VIDEOS AND TEXT NARRATIONS
+https://arxiv.org/pdf/2210.14395
+
+![[/assets/wiki/Pasted image 20241108124330.png]]
+
+> Abstract : We present IMU2CLIP, a novel pre-training approach to
+> align Inertial Measurement Unit (IMU) motion sensor record-
+> ings with video and text, by projecting them into the joint rep-
+> resentation space of Contrastive Language-Image Pre-training
+> (CLIP). The proposed approach allows IMU2CLIP to trans-
+> late human motions (as measured by IMU sensors) into their
+> corresponding textual descriptions and videos – while preserv-
+> ing the transitivity across these modalities.
+> We explore several new IMU-based applications that
+> IMU2CLIP enables, such as motion-based media retrieval
+> and natural language reasoning tasks with motion data. In
+> addition, we show that IMU2CLIP can significantly improve
+> the downstream performance when fine-tuned for each appli-
+> cation (e.g. activity recognition), demonstrating the universal
+> usage of IMU2CLIP as a new pre-trained resource. Our code
+> will be made publicly available.
+
+---
+
+3. Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities
+https://arxiv.org/pdf/2402.10835
+
+Abstract : 
+> Large language models (LLMs) have been applied in many fields and have de-
+> veloped rapidly in recent years. As  a classic machine learning task, time series
+> forecasting has recently been boosted by LLMs. Recent works treat large lan-
+> guage models as zero-shot time series reasoners without further fine-tuning, which
+> achieves remarkable performance. However, there are some unexplored research
+> problems when applying LLMs for time series forecasting under the zero-shot
+>  setting. For instance, the LLMs’ preferences for the input time series are less un-
+> derstood. In this paper, by comparing LLMs with traditional time series forecasting
+> models, we observe many interesting properties of LLMs in the context of time
+> series forecasting. First, our study shows that LLMs perform well in predicting
+> time series with clear patterns and trends but face challenges with datasets lacking
+> periodicity. This observation can be explained by the ability of LLMs to recognize
+> the underlying period within datasets, which is supported by our experiments. In
+> addition, the input strategy is investigated and it is found that incorporating external
+> knowledge and adopting natural language paraphrases substantially improve the
+> predictive performance of LLMs for time series. Overall, our study contributes
+> insight into LLMs’ advantages and limitations in time series forecasting under
+> different conditions.
+
+![[/assets/wiki/Pasted image 20241108124708.png]]
+
+---
+
+

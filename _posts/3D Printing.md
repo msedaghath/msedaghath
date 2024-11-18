@@ -1,0 +1,45 @@
+---
+title: "3D Printing"
+---
+**Smart 3D Printing System Overview**
+=====================================
+
+Our ultimate goal is to create an intelligent system that integrates control, data collection, monitoring, and machine learning capabilities to optimize the 3D printing process.
+
+### Key Objectives
+
+#### 1. **Control**
+
+* Establish a web-based interface for remote control of 3D printers
+* Implement real-time monitoring and automation of print jobs
+* Ensure seamless integration with existing printer hardware
+
+#### 2. **Data Collection**
+
+* Develop a robust data collection system to track print parameters, such as temperature, speed, and material usage
+* Collect sensor data from the printer, including temperature, humidity, and vibration levels
+* Store collected data in a secure and accessible database
+
+#### 3. **Monitoring**
+
+* Implement real-time monitoring of the printing process, including temperature, layer thickness, and print time
+* Use machine learning algorithms to detect anomalies and predict potential issues
+* Provide alerts and notifications for critical events, such as printer malfunctions or material shortages
+
+#### 4. **Machine Learning**
+
+* Train machine learning models on collected data to optimize print settings and reduce errors
+* Develop predictive analytics capabilities to forecast print times, material usage, and quality
+* Continuously update and refine the machine learning models to improve performance and accuracy
+
+### Benefits
+
+* Improved print quality and reduced defects
+* Increased productivity and efficiency through automation and optimization
+* Enhanced remote monitoring and control capabilities
+* Data-driven decision making for improved printer maintenance and upgrades
+Our goal is 
+	1. [[Control]] the 3D Printers over web 
+	2. [[Collect]] data from each print 
+	3. [[Monitor]] 3D Printing process
+	4. Develop a good [[data base]] for further developing [[machine learning models]] to [[detect failures]] in 3D Printing

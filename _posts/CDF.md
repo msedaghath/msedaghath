@@ -1,0 +1,6 @@
+---
+title: "CDF"
+---
+**Common Data Format** (**CDF**) is a library and toolkit that was developed by the [National Space Science Data Center](https://en.wikipedia.org/wiki/National_Space_Science_Data_Center "National Space Science Data Center") (NSSDC) at [NASA](https://en.wikipedia.org/wiki/NASA "NASA") started in 1985. The software is an interface for the [storage](https://en.wikipedia.org/wiki/Computer_data_storage) and [manipulation](https://en.wikipedia.org/wiki/Data_manipulation "Data manipulation") of [multi-dimensional data](https://en.wikipedia.org/w/index.php?title=Multi-dimensional_data&action=edit&redlink=1 "Multi-dimensional data (page does not exist)") sets.[[1]](https://en.wikipedia.org/wiki/Common_Data_Format#cite_note-1)
+
+https://en.wikipedia.org/wiki/Common_Data_Format

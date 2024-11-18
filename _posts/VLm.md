@@ -1,0 +1,10 @@
+---
+title: "VLm"
+---
+https://huggingface.co/blog/vlms
+
+# Vision Language Models Explained
+
+Vision language models are models that can learn simultaneously from images and texts to tackle many tasks, from visual question answering to image captioning. In this post, we go through the main building blocks of vision language models: have an overview, grasp how they work, figure out how to find the right model, how to use them for inference and how to easily fine-tune them with the new version of [trl](https://github.com/huggingface/trl) released today!
+
+## [](https://huggingface.co/blog/vlms#what-is-a-vision-language-model)
