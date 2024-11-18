@@ -1,6 +1,10 @@
 ---
-title: "Summary from the meeting - 08.11.2024"
+title: Summary from the meeting - 08.11.2024
+date: 2024-11-08
+categories: 
+tags: [Summary from the meeting - 08.11.2024]
 ---
+
 Participants : Prof Engel , Prof.Menzel , Milad Herfeh
 Here’s the complete summary of your recent meeting [[transcribe]]: 
 > *Summarized with GPT*
@@ -41,7 +45,7 @@ Here’s the complete summary of your recent meeting [[transcribe]]:
 ---
 
 
-![[/assets/wiki/mermaid-diagram-2024-11-08-182230.png]]
+![alt text](/assets/wiki/mermaid-diagram-2024-11-08-182230.png)
 
 [[Diagram_Meetingnotes_08.11.2024]]
 

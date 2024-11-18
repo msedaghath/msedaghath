@@ -1,6 +1,11 @@
 ---
-title: "Prompting"
+title: Prompting
+date: 2024-11-08
+categories: 
+tags: [Prompting]
 ---
+
+
 # PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting
 
 https://arxiv.org/abs/2210.08964

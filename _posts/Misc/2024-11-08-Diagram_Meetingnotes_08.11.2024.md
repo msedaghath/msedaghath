@@ -1,6 +1,10 @@
 ---
-title: "Diagram_Meetingnotes_08.11.2024"
+title: Diagram_Meetingnotes_08.11.2024
+date: 2024-11-08
+categories: 
+tags: [Diagram_Meetingnotes_08.11.2024]
 ---
+
 ```mermaid
 graph TD
     %% System Architecture Section
