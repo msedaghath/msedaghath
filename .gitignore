@@ -18,9 +18,7 @@ package-lock.json
 # IDE configurations
 .idea
 .vscode/*
-!.vscode/settings.json
-!.vscode/extensions.json
-!.vscode/tasks.json
+
 
 # Misc
 _sass/dist
@@ -29,3 +27,4 @@ assets/js/dist
 # Github Workflow
 .github
 .DS_Store
+

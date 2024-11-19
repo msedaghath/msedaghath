@@ -2,7 +2,7 @@
 title: Prompting
 date: 2024-11-08
 categories: 
-tags: [Prompting]
+tags: []
 ---
 
 

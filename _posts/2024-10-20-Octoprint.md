@@ -2,7 +2,7 @@
 title: Octoprint
 date: 2024-10-20
 categories: 
-tags: [Octoprint]
+tags: [OctoPrint]
 ---
 
 #OctoPrint
