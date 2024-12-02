@@ -45,9 +45,8 @@ Here’s the complete summary of your recent meeting [transcribe](../transcribe)
 ---
 
 
-![/assets/wiki/mermaid-diagram-2024-11-08-182230.png](..//assets/wiki/mermaid-diagram-2024-11-08-182230.png)
+![/assets/wiki/mermaid-diagram-2024-11-08-182230.png](assets/wiki/mermaid-diagram-2024-11-08-182230.png)
 
-[Diagram_Meetingnotes_08.11.2024](../Diagram_Meetingnotes_08.11.2024)
 
 
 
